@@ -27,20 +27,3 @@ Computer Science student building practical **AI/ML applications** and solving r
 **🧬 GeneCare AI** — AI-powered application combining machine learning, backend APIs, databases and authentication.
 
 [→ View repository](https://github.com/adrijghosh8/genecare_ai)
-
-### 📊 GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=adrijghosh8&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrijghosh8&layout=compact&hide_border=true&theme=transparent" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=adrijghosh8&hide_border=true&theme=transparent" />
-</p>
-
-<div align="center">
-
-`Build • Learn • Solve • Repeat`
-
-</div>
