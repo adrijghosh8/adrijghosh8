@@ -1,16 +1,27 @@
-## Hi there 👋
+              Hi, I'm Adrij Ghosh 👋
+           AI/ML • Backend • DSA
 
-<!--
-**adrijghosh8/adrijghosh8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+     Building real-world AI/ML applications
+          Learning | Building | Solving
 
-Here are some ideas to get you started:
+────────────────────────────────────────────
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ About
+
+Computer Science student focused on
+AI/ML, backend development & problem solving.
+
+🛠️ Tech Stack
+Python • C++ • FastAPI • ML • SQL • Git
+
+🚀 Featured
+🧬 GeneCare AI
+
+📊 GitHub
+[ Stats ] [ Top Languages ]
+        [ Streak ]
+
+🔗 Connect
+LinkedIn · LeetCode · GitHub
+
+          Build • Learn • Solve • Repeat
