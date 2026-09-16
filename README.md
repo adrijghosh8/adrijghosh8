@@ -2,28 +2,133 @@
 
 <img src="./github_profile_animated.gif" alt="Animated developer banner" width="100%">
 
-### `AI/ML • Backend • DSA`
+<br>
 
-Computer Science student building practical **AI/ML applications** and solving real-world problems.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&lines=AI%2FML+%7C+Backend+%7C+DSA;Building+practical+AI+applications;Learning.+Building.+Improving.+Repeating." alt="Typing animation">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/adrij-ghosh-089886360/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-111827?style=flat-square&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/Adrij1041/)
+<br><br>
+
+<a href="https://linkedin.com/in/adrij-ghosh-089886360/">
+  <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn">
+</a>
+<a href="https://leetcode.com/u/Adrij1041/">
+  <img src="https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode">
+</a>
 
 </div>
 
 ---
 
-### 🛠️ Stack
+## 👋 About Me
 
-![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB)
-![C++](https://img.shields.io/badge/C++-111827?style=flat-square&logo=cplusplus&logoColor=00599C)
-![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=flat-square&logo=fastapi&logoColor=009688)
-![Scikit Learn](https://img.shields.io/badge/ML-111827?style=flat-square&logo=scikitlearn&logoColor=F7931E)
-![SQL](https://img.shields.io/badge/SQL-111827?style=flat-square&logo=postgresql&logoColor=4169E1)
-![Git](https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F05032)
+I'm a **Computer Science student** interested in building practical software with **AI/ML, backend development and problem solving**.
 
-### 🚀 Featured
+I enjoy taking an idea from a dataset or algorithm and turning it into something that people can actually use.
 
-**🧬 GeneCare AI** — AI-powered application combining machine learning, backend APIs, databases and authentication.
+```text
+Build → Learn → Improve → Repeat
+```
 
-[→ View repository](https://github.com/adrijghosh8/genecare_ai)
+---
+
+## 🧠 What I Work With
+
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js" alt="Languages">
+
+### AI / ML & Data
+<img src="https://skillicons.dev/icons?i=python,sklearn,pytorch" alt="AI ML">
+
+### Backend & Database
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgresql,mongodb" alt="Backend">
+
+### Frontend & Tools
+<img src="https://skillicons.dev/icons?i=html,css,react,vite,git,github,vscode" alt="Tools">
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🧬 GeneCare AI
+AI-powered disease prediction and anomaly detection platform.
+
+- Machine learning prediction pipelines
+- FastAPI backend
+- SHAP-based model explanations
+- React frontend
+- Authentication and prediction history
+
+**Repository:**  
+→ https://github.com/adrijghosh8/genecare_ai
+
+---
+
+### 📄 AI Resume Checker
+A resume matching system that combines **NLP, TF-IDF and skill-based matching** to compare resumes with job requirements.
+
+**Focus:** NLP • Skill Extraction • Similarity • Backend APIs
+
+---
+
+### 🔎 Anomaly Detection Research
+A research-oriented anomaly detection project exploring machine learning and unsupervised techniques for identifying unusual patterns in large datasets.
+
+**Focus:** Anomaly Detection • Clustering • Explainability • Research
+
+---
+
+## ⚡ Current Focus
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=700&color=9CA3AF&center=true&vCenter=true&width=650&lines=Solving+DSA+problems;Building+AI%2FML+projects;Learning+backend+engineering;Working+on+research+projects" alt="Current focus animation">
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=adrijghosh8&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true" height="165" alt="GitHub stats">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrijghosh8&layout=compact&hide_border=true&theme=github_dark&langs_count=8" height="165" alt="Top languages">
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=adrijghosh8&theme=github-dark-blue&hide_border=true" alt="GitHub streak">
+
+</div>
+
+---
+
+## 💻 Coding
+
+<div align="center">
+
+<a href="https://leetcode.com/u/Adrij1041/">
+  <img src="https://leetcard.jacoblin.cool/Adrij1041?theme=dark&font=Baloo&ext=heatmap" width="500" alt="LeetCode stats">
+</a>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adrijghosh8&bg_color=0d1117&color=ffffff&line=6e7681&point=ffffff&area=true&hide_border=true" width="95%" alt="Contribution graph">
+
+</div>
+
+---
+
+<div align="center">
+
+### `Think • Build • Solve • Repeat`
+
+<img src="https://komarev.com/ghpvc/?username=adrijghosh8&style=flat-square&color=111827&label=Profile+Views" alt="Profile views">
+
+</div>
