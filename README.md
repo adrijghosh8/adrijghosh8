@@ -85,25 +85,8 @@ A research-oriented anomaly detection project exploring machine learning and uns
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=700&color=9CA3AF&center=true&vCenter=true&width=650&lines=Solving+DSA+problems;Building+AI%2FML+projects;Learning+backend+engineering;Working+on+research+projects" alt="Current focus animation">
 
----
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=adrijghosh8&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true" height="165" alt="GitHub stats">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrijghosh8&layout=compact&hide_border=true&theme=github_dark&langs_count=8" height="165" alt="Top languages">
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=adrijghosh8&theme=github-dark-blue&hide_border=true" alt="GitHub streak">
-
-</div>
-
----
-
-## 💻 Coding
+## LeetCode
 
 <div align="center">
 
@@ -112,18 +95,6 @@ A research-oriented anomaly detection project exploring machine learning and uns
 </a>
 
 </div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adrijghosh8&bg_color=0d1117&color=ffffff&line=6e7681&point=ffffff&area=true&hide_border=true" width="95%" alt="Contribution graph">
-
-</div>
-
----
 
 <div align="center">
 
