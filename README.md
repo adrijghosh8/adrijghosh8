@@ -1,6 +1,6 @@
 # Hi, I'm Adrij Ghosh
 
-**Computer Science Student | AI/ML | Backend | DSA**
+**Computer Science Student | AI/ML | Computer Vision | DSA**
 
 I'm a Computer Science student interested in building practical software and machine learning applications.
 
