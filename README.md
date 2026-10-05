@@ -26,7 +26,6 @@ Currently working with **Python, C++, SQL, Machine Learning, FastAPI, DSA and Gi
 - **[Anomaly Detector](https://github.com/adrijghosh8/Anomaly-Detector)** — Machine learning system for detecting unusual patterns and outliers.
 - **[PMAY-U Anomaly Detection](https://github.com/adrijghosh8/PMAY-U-Anomaly-Detection)** — Unsupervised ML approach for identifying unusual patterns in PMAY-U data.
 - **[PixelStay AI](https://github.com/adrijghosh8/PixelStay-AI-Room-Type-Predictor)** — Room-type prediction system built with React, FastAPI and Scikit-learn.
-- **[Library Management System](https://github.com/adrijghosh8/LibraryManagementSystem)** — C++ based library management system with role-based access and persistent storage.
 
 ### Connect
 
